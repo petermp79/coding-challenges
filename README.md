@@ -48,14 +48,14 @@ still fresh.
 While coding test was clearly setup with the expectation that it will help to filter out 
 "exceptionally intelligent" candidates. I really doubted the result that they gained. 
 The companies may end up with a whole bunch of bookworms and coding monkeys who are either good 
-at and can afford to work hard on practicing coding tests.
+at and can afford to work hard on practicing (and memorizing) coding tests.
 
 In my long years as a software professional, I know in practice that innovations and good ideas 
-come from a long process of learning and gaining experience on the subjects we were exploring, not
+come from a long process of learning and gaining experience on the subjects we are exploring, not
 from pushing people around in hurry. That's why software engineers are often on flexible work
 time term.
 
-I hired many people myself in the past, I've never asked people to do coding tests in my inyerview. 
+I hired many people myself in the past, I've never asked people to do coding tests in my interview. 
 When I do, only to make sure a candidate can code the programming language that the job required. 
 
 I feel the current coding test practice is unfair to many who do not have the time and resource 
