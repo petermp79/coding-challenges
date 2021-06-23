@@ -33,37 +33,6 @@ The below are some resources I used for for coding test training and practice.
     to almost any coding test problems on this website. The site also offers plenty of articles
     on programming subjects that could be helpful in refreshing your skillsets.
 
-While I hate the coding test practice as I see it as an age discrimination hiring practice in
-disguise, I think it could be useful to keep you up to date in terms of algorithms and help to
-hone your skillsets in case you have not worked on coding for some period of time. (Let's be
-honest about it, everyone, software engineers, needs such practices from time to time).
-
-My discontent with the coding test practice is of the interviewer expectation of a candidate's 
-ability to come up with an optimized solution in a short period of time and because of limited
-time, the candidate wont have the time to correct mistakes. This, in turn, contributes to more
-mistakes to be made. This kind of practice clearly favors those who just gets out of school and 
-just went through coding test bootcamp as their memory of the soluttions to these problems is 
-still fresh.
-
-While coding test was clearly setup with the expectation that it will help to filter out 
-"exceptionally intelligent" candidates. I really doubted the result that they gained. 
-The companies may end up with a whole bunch of bookworms and coding monkeys who are either good 
-at and can afford to work hard on practicing (and memorizing) coding tests.
-
-In my long years as a software professional, I know in practice that innovations and good ideas 
-come from a long process of learning and gaining experience on the subjects we are exploring, not
-from pushing people around in hurry. That's why software engineers are often on flexible work
-time term.
-
-I hired many people myself in the past, I've never asked people to do coding tests in my interview. 
-When I do, only to make sure a candidate can code the programming language that the job required. 
-
-I feel the current coding test practice is unfair to many who do not have the time and resource 
-to go through coding test training and worse, violates the laws as I mentioned above. For this
-reasons, I have sent letter to POTUS office and many other congressional offices to bring this
-issue to lawmakers' attention.
-
-Until the effort gains traction and yield a result in favor to those looking for job.
 
 ... Happy coding!!!
 

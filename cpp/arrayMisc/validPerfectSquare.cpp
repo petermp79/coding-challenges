@@ -1,32 +1,34 @@
 /*
 
-Given a positive integer num, write a function which returns True if num is a perfect square else False.
+    LEETCODE# 367
 
-Follow up: Do not use any built-in library function such as sqrt.
+    Given a positive integer num, write a function which returns True if num is a perfect square else False.
 
-Example 1:
+    Follow up: Do not use any built-in library function such as sqrt.
+
+    Example 1:
 
     Input: num = 16
     Output: true
 
-Example 2:
+    Example 2:
 
     Input: num = 14
     Output: false
  
 
-Constraints:
+    Constraints:
 
-    1 <= num <= 2^31 - 1
+        1 <= num <= 2^31 - 1
 
 
-Solution:
-    Probe a number x such that x*x = n --> square. 
-    If x cant be found, not a sqaure.
+    Solution:
+        Probe a number x such that x*x = n --> square. 
+        If x cant be found, not a sqaure.
 
-    Use binary search in the range of 1 to N.
+        Use binary search in the range of 1 to N.
 
-    TC O(log(sqrt(n)));
+        TC O(log(sqrt(n)));
 
 */
 
