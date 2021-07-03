@@ -1,11 +1,16 @@
 # codingtests
 
-This repo keeps track of solutions to coding test problems that I worked on to prepare for 
-interviews. I hope it will be useful to you. I know coding test is suck and favors people
-who just gets out of school, but most companies are requiring as a measure of skills. Some
-even religiously and rigidly believe in it to help them recruit the best candidates. People
-who were graduating from school prior to 2010 may find coding tests as their career killer,
-as they were trained not to memorize, but able to perform research on demand. 
+This repo keeps track of solutions to coding test problems that a Facebook recruiter suggested
+me to work on to prepare for Facebook interviews. I hope you will find them useful to you. 
+
+I know coding test is suck and favors people who just gets out of school, but most companies are 
+requiring as a measure of skills. Some even religiously believe coding test will help them recruit the 
+best candidates. People who were graduating from school prior to 2010 may find coding tests as 
+their career killer, as they were trained not to memorize, but to be able to perform research 
+on demand and to innovate. I think coding test initially applied by big tech companies for 
+recruiting students from University, which I think makes sense as students often spend day-in and
+day-out to do tests or practice coding tests. Eventually, they apply it to every software candidate 
+across the board, which I think is super-stupid.
 
 Most of the tests are from LEETCODE site. Just a few of them are from other websites. You
 may find my comments in the code useful for helping you to follow the algorithms used for
@@ -14,7 +19,8 @@ difficulty problems due to limited time. Dont waste time on Hard problems. Those
 you to do a Hard problem in a job interview are not worthy of working for anyway as they 
 most likely see thing only from their own point of view.
 
-The below are some resources I used for for coding test training and practice.
+The below are some resources I used for for coding test training and practice while I was
+at it.
 
 - Algoexpert.io - provide video for explaining the algorithms behind every problem.
     You have to purchase access to their coding test problems and training video.
