@@ -24,7 +24,8 @@ Yet, they all expect candidates to perform without a hiccup and with an optimize
 So, I told them they got better luck with someone just graduating from school who can afford to spend 
 years of practicing these coding test problems.
 
-For me, I am done with coding tests. I cant afford to waste my precious time on these tests.
+For me, I am done with coding tests. I cant afford to waste my precious time on these tests. I'd rather
+spend this time to work on my own projects.
 
 ------  About the coding tests you found on this repo ------------------------
 
@@ -68,6 +69,8 @@ at it.
   
 ... Happy coding!!!
 
+Peter M. Pham
+https://www.linkedin.com/in/peter-m-pham-8272b669/
 
 
 
