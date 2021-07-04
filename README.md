@@ -21,11 +21,10 @@ The answer is NO. Despite of my 2-month effort to practice all these tests on LE
 I only managed to remember a few problems. So, my coding test interview is often partial successful.
 Yet, they all expect candidates to perform without a hiccup and with an optimized solution.
 
-So, I told them they got better luck with someone just graduating from school who can afford to spend 
-years of practicing these coding test problems.
+So, I think they got better luck with someone who just graduates from school.
 
-For me, I am done with coding tests. I cant afford to waste my precious time on these tests. I'd rather
-spend this time to work on my own projects.
+For me, I am done with coding tests. I cant afford to waste my precious time on these tests. 
+I'd rather spend my time working on my own projects.
 
 ------  About the coding tests you found on this repo ------------------------
 
