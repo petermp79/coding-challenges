@@ -8,9 +8,25 @@ requiring as a measure of skills. Some even religiously believe coding test will
 best candidates. People who were graduating from school prior to 2010 may find coding tests as 
 their career killer, as they were trained not to memorize, but to be able to perform research 
 on demand and to innovate. I think coding test initially applied by big tech companies for 
-recruiting students from University, which I think makes sense as students often spend day-in and
-day-out to do tests or practice coding tests. Eventually, they apply it to every software candidate 
-across the board, which I think is super-stupid.
+recruiting students from University, which I think makes sense as students have spent day-in 
+and day-out to do tests or practice coding tests as part of their education. 
+
+Yet, eventually, these companies apply it to every software candidate across the board, which I think 
+is super-stupid. Yet, quickly enough, every company in the industry just copy and make it as part
+of their hiring process.
+
+So, you may ask, did I get a job from Facebook? 
+
+The answer is NO. Despite of my 2-month effort to practice all these tests on LEETCODE, etc. 
+I only managed to remember a few problems. So, my coding test interview is often partial successful.
+Yet, they all expect candidates to perform without a hiccup and with an optimized solution.
+
+So, I told them they got better luck with someone just graduating from school who can afford to spend 
+years of practicing these coding test problems.
+
+For me, I am done with coding tests. I cant afford to waste my precious time on these tests.
+
+------  About the coding tests you found on this repo ------------------------
 
 Most of the tests are from LEETCODE site. Just a few of them are from other websites. You
 may find my comments in the code useful for helping you to follow the algorithms used for
@@ -51,6 +67,10 @@ at it.
   I got it for only $9.90 when it was on-sale. Maybe, you should get it for training.
   
 ... Happy coding!!!
+
+
+
+
 
   
 
