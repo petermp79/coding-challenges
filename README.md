@@ -4,8 +4,7 @@ This repo keeps track of solutions to coding test problems that a Facebook recru
 me to work on to prepare for Facebook interviews. I hope you will find them useful to you. 
 
 I know coding test is suck and favors people who just gets out of school, but most companies are 
-requiring as a measure of skills. Some even religiously believe coding test will help them recruit the 
-best candidates. People who were graduating from school prior to 2010 may find coding tests as 
+requiring as a measure of skills. Some even religiously believe coding test will help them recruit the best candidates. People who were graduating from school prior to 2010 may find coding tests as 
 their career killer, as they were trained not to memorize, but to be able to perform research 
 on demand and to innovate. I think coding test initially applied by big tech companies for 
 recruiting students from University, which I think makes sense as students have spent day-in 
@@ -19,12 +18,15 @@ So, you may ask, did I get a job from Facebook?
 
 The answer is NO. Despite of my 2-month effort to practice all these tests on LEETCODE, etc. 
 I only managed to remember a few problems. So, my coding test interview is often partial successful.
-Yet, they all expect candidates to perform without a hiccup and with an optimized solution.
 
-So, I think they got better luck with someone who just graduates from school.
+Then, I got contact by a Google recruiter, but again, these recruiters cant help themselves but forcing me to go through the coding test. Being nice, I accepted the challenge, and again, I can only complete one of the two tests. 
 
-For me, I am done with coding tests. I cant afford to waste my precious time on these tests. 
-I'd rather spend my time working on my own projects.
+It is noted that they all expect candidates to perform the coding tests without a hiccup and with an optimized solution. Even if you come up with a solution, but not the optimized one, you failed. How ridiculous it is, given the limited time they allow. This means you need to not only know how to work on a problem, but you must also memorize how it could be optimized. Given such requirements, the only way you can pass their challenge is to practice the coding tests regularly for a long period of time so they get engraved into your memory system.
+
+So, I think they got better luck with someone who just graduates from school. People of my generation were not trained to work this way (graduates of the 1980s). We were trained not to memorize, but being able to perform research on the best and innovative solution to a problem.
+
+After a few tries as mentioned above, for me, I am done with coding tests. I cant afford to waste my precious time on these tests. I'd rather spend my time working on my own projects.
+
 
 ------  About the coding tests you found on this repo ------------------------
 
