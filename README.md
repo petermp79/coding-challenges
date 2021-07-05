@@ -1,7 +1,7 @@
 # codingtests
 
 This repo keeps track of solutions to coding test problems that a Facebook recruiter suggested
-me to work on to prepare for Facebook interviews. I hope you will find them useful to you. 
+me to work on to prepare for Facebook interviews and many more. I hope you will find them useful to you. 
 
 I know coding test is suck and favors people who just gets out of school, but most companies are 
 requiring as a measure of skills. Some even religiously believe coding test will help them recruit the best candidates. People who were graduating from school prior to 2010 may find coding tests as 
@@ -10,9 +10,7 @@ on demand and to innovate. I think coding test initially applied by big tech com
 recruiting students from University, which I think makes sense as students have spent day-in 
 and day-out to do tests or practice coding tests as part of their education. 
 
-Yet, eventually, these companies apply it to every software candidate across the board, which I think 
-is super-stupid. Yet, quickly enough, every company in the industry just copy and make it as part
-of their hiring process.
+Yet, eventually, these companies apply it to every software candidate across the board, which I think is super-stupid. Yet, quickly enough, every company in the industry just copy and make it as part of their hiring process.
 
 So, you may ask, did I get a job from Facebook? 
 
@@ -55,11 +53,9 @@ at it.
 
     Most problems listed can be accessed with a free account. However, a paid account will
     allow you gain access to problems often used by big tech companies in their interview.
-    The cost of a paid account is $35.00/mo. I recommend you to save your solutions some
+    The cost of a leetcode paid account is $35.00/mo. I recommend you to save your solutions some
     places else before discontinuing your subscription service since you will not be able 
-    to access the content of these problems after you end the subscription. I worked on many 
-    other problems when I had the subscription, but unable to access them to add to this repo 
-    after I ended the subscription.
+    to access these problems after you end the subscription. I worked on many other problems when I had the subscription, but unable to access them afterward for adding to this repo after I ended the subscription.
 
 - geekstogeeks.com - Another good coding test solution resource is this website. You can find 
     solutions to almost any coding test problems on this website. The site also offers plenty 
