@@ -32,8 +32,7 @@ Most of the tests are from LEETCODE site. Just a few of them are from other webs
 may find my comments in the code useful for helping you to follow the algorithms used for
 solving these problems. Most interviews require you to solve problems with Easy-Medium 
 difficulty problems due to limited time. Dont waste time on Hard problems. Those who want
-you to do a Hard problem in a job interview are not worthy of working for anyway as they 
-most likely see thing only from their own point of view.
+you to do a Hard problem in a job interview are not worthy of working for anyway.
 
 The below are some resources I used for for coding test training and practice while I was
 at it.
