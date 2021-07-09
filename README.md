@@ -1,29 +1,46 @@
 # codingtests
 
-This repo keeps track of solutions to coding challenge problems that a Facebook recruiter suggested
-me to work on to prepare for Facebook interviews and many more. I hope you will find them useful to you. 
+This repo keeps track of solutions to coding challenge problems that I worked on for practice for over 2 months.
+A Facebook recruiter talked me into this effort as he knew that people in my generation are not well-prepared for coding 
+challenge despite of his interests in my past professional experience. According to him, even a director position 
+at Facebook requires coding challenge as the first step.
 
-I know coding test is suck and favors people who just gets out of school, but most companies are 
-requiring as a measure of skills. Some even religiously believe coding test will help them recruit the best candidates. People who were graduating from school prior to 2010 may find coding tests as 
-their career killer, as they were trained not to memorize, but to be able to perform research 
-on demand and to innovate. I think coding test initially applied by big tech companies for 
-recruiting students from University, which I think makes sense as students have spent day-in 
-and day-out to do tests or practice coding tests as part of their education. 
+I know coding test sucks and favors people who just graduates from school, but most companies are requiring it as a 
+measure of skills nowadays. Some even religiously believe coding test will help them recruit the best candidates. 
+People who were graduating from school prior to 2010, like I am, may find coding tests as their career killer, 
+as they were trained not to memorize, but to be able to perform research on demand and to innovate. 
 
-Yet, eventually, these companies apply it to every software candidate across the board, which I think is super-stupid. Yet, quickly enough, every company in the industry just copy and make it as part of their hiring process.
+I think coding challenge culture initially applied by big tech companies for recruiting students graduates from University, 
+which I think makes complete sense as students have spent day-in and day-out to do tests or practice coding tests as 
+part of their education and as they often have a blank resume to begin with.
+
+Yet, eventually, these companies apply it to every software candidate across the board, which I think is super-stupid. 
+You bet, soon enough, every company in the industry just copy and make it as part of their hiring process.
 
 So, you may ask, did I get a job from Facebook? 
 
-The answer is NO. Despite of my 2-month effort to practice all these tests on LEETCODE, etc. 
-I only managed to remember a few problems. So, my coding test interview is often partial successful.
+The answer is NO. Despite of my 2-month effort to practice all these tests on LEETCODE, etc. I only managed to remember a 
+few of them. I was just overwhelmed by the sheer number of coding challenges on LEETCODE (thousands of them). My coding 
+challenge interview with Facebook was only partially successful.
 
-Then, I got contact by a Google recruiter, but again, these recruiters cant help themselves but forcing me to go through the coding challenge. Being nice, I accepted the challenge, and again, I can only completed the challenge partially. 
+A short time later, I got contacted by a Google recruiter, but again, the recruiter cant help but forcing me to go through 
+the coding challenge, because it was the company policy, she explained. Being nice, I accepted the challenge, and again, 
+I can only complete the challenge partially. 
 
-It is noted that they all expect candidates to perform the coding tests without a hiccup and with an optimized solution. Even if you come up with a solution, but not the optimized one, you failed. How ridiculous it is, given the limited time they allow. This means you need to not only know how to work on a problem, but you must also memorize the optimized solution. Given such requirements, the only way you can pass their challenge is to practice the coding tests regularly for a long period of time so they get engraved into your memory system.
+It is noted that they all expect candidates to perform the coding tests without a hiccup and with an optimized solution. 
+Even if you come up with a solution, but not the optimized one or struggling to finish it, you failed. I have not done 
+interviews for quite sometime and could not imagine how ridiculous the whole hiring process nowadays has become. This 
+requirement means you need to not only know how to work on a problem, but you must also memorize the optimized solution 
+so you can do it without a hiccup. 
 
-I think they got better luck with someone who just graduates from school. People of my generation were not trained to work this way (graduates of the 1980s). We were trained not to memorize, but being able to perform research on the best and innovative solution to a problem, not to mention, coding challenege was not on the agenda of our time.
+Given such requirements, the only way you can pass their challenge is to practice the coding tests regularly for a long 
+period of time so they get engraved into your memory system. People in my generation were trained not to memorize, but 
+being able to perform research and innovate, not to mention, coding challenge was never on the hiring agenda of our time.
 
-After a few tries as mentioned above, for me, I am done with coding tests. I cant afford to waste my precious time on training and memorizing these tests. I'd rather spend my time working on my own projects.
+Well, after realizing this, I think I would better spend my time working on my interests instead of recruiter's interest.
+
+So, personally, I am done with coding challenge. I hope the collection of coding tests and solutions in the repo will be 
+helpful to you in your job interviews.
 
 
 ------  About the coding tests you found on this repo ------------------------
@@ -54,7 +71,9 @@ at it.
     allow you gain access to problems often used by big tech companies in their interview.
     The cost of a leetcode paid account is $35.00/mo. I recommend you to save your solutions some
     places else before discontinuing your subscription service since you will not be able 
-    to access these problems after you end the subscription. I worked on many other problems when I had the subscription, but unable to access them afterward for adding to this repo after I ended the subscription.
+    to access these problems after you end the subscription. I worked on many other problems when 
+    I had the subscription, but unable to access them afterward for adding to this repo after I 
+    ended the subscription.
 
 - geekstogeeks.com - Another good coding test solution resource is this website. You can find 
     solutions to almost any coding test problems on this website. The site also offers plenty 
