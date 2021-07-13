@@ -21,10 +21,15 @@ vector<int> findTwo(vector<int> list, int k) {
     unordered_set<int> hashmap{};
 
     for (auto i : list) {
+        // lookup hash table to see if it is the difference of 
+        // a previous element
+        //
         auto itr = hashmap.find(i);
         if (itr != hashmap.end()) {
+            // yes, it is we found a 2sum, previous elem and this one.
             return {i, k - i};
         }
+        // store the difference in the hash table for later lookup
         hashmap.insert(k-i);
     }
     return {};
