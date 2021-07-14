@@ -1,6 +1,4 @@
-# codingtests
-
-CODING TEST SUCKS!!!
+# CODING TEST SUCKS!!!
 
 This repo keeps track of solutions to coding challenge problems that I worked on for practice for over 2 months.
 A Facebook recruiter talked me into this effort as he knew that people in my generation are not well-prepared for 
