@@ -51,8 +51,8 @@ the optimized solution so you can do it without a hiccup.
 In an experience I had with Samsung, I passed one round of coding challenge, the next interviewer also challenges me
 on coding, in which I get it done right in 10 min. The interviewer complains my code is not clean and he suggested
 a cleaner solution way of coding it. You know what? The guy spent the next 30 min to do it himself (he did not remember 
-well what he is asking me to do). The end result is saving three lines of code, but apparently, he failed me anyway.  
-Can you imagine how STUPID and CRUEL this whole coding challenge culture has become???? Why cant they simply asking 
+well what he is asking me to do). The end result is saving three lines of code, but apparently, he failed me anyway. Can 
+you imagine how STUPID and CRUEL this whole coding challenge culture has become???? Why cant they simply asking 
 questions on the technical skills required for the job????
 
 This is why many people have quietly given up on their career or dare not switching job for a better position. 
