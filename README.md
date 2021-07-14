@@ -1,5 +1,7 @@
 # codingtests
 
+CODING TEST SUCKS!!!
+
 This repo keeps track of solutions to coding challenge problems that I worked on for practice for over 2 months.
 A Facebook recruiter talked me into this effort as he knew that people in my generation are not well-prepared for 
 coding challenge despite of his hiring manager interests in my past professional experience. According to him, even 
@@ -14,9 +16,10 @@ I think the coding challenge culture initially applied by big tech companies for
 from University, which I think makes complete sense as students spends day-in and day-out to do tests or practice 
 coding tests as part of their education. Also, they have no work experience for discussing in the interview.
 However, it does not make any senses to challenge people who has a long line of experience in the career to with
-school stuff, which are a distant memory for these people. It is apparent that the hiring manager or whoever
-has interests in an experienced professional is due to his/her experience. So, why not addressing their experience
-in the interview? Why is it necessary to go through this unncessary "ritual" of coding challenge?
+school stuff. Tests are a distant memory for these people. It is apparent that the hiring manager or whoever
+must have interests a candidate's work experience in order to request a job interview. So, why not addressing 
+the candidate's work experience in the interview as ever done before? Why is it necessary to religiously force
+candidates to go through this coding challenge "ritual"?
 
 Despite of my 2-month effort to practice all these tests on LEETCODE, etc. I only managed to remember a few of them. 
 I was just overwhelmed by the sheer number of coding challenges on LEETCODE. There are thousands of them in existence
@@ -25,9 +28,10 @@ chance of employment. So, no matter how long you spend on training yourselves, i
 skills. 
 
 Nevertheless, I did not pass the coding challenge at Facebook despite of 2-3 months self-training. My coding challenge 
-with Facebook was only partially successful. (They asked two coding problems, I can do only one of them, the other
-one I figure out the solution, but not having enough time to finish it). To be fair, the recruiter gave me a second
-chance, but again, I can only manage the get it done partially, with brute force solution instead of optimized one.
+with Facebook was only partially successful. (They asked two coding problems in 40 min, I can do only one of them, 
+the other one I figure out the solution, but not having enough time to finish it). To be fair, the recruiter gave 
+me a second chance, but again, I can only manage the get it done partially, with brute force solution instead of 
+optimized one.
 
 A short time later, I got contacted by a Google recruiter, but again, the recruiter cant help but forcing me to go 
 through the coding challenge, because it was the "company hiring policy", she explained. Being nice, I accepted the 
@@ -54,15 +58,24 @@ Why cant they simply asking questions on technical skills that they need for the
 
 This is why many people have quietly given up on their career or dare not switching job for a better position. 
 I know quite a few of them. What I suggest those who have similar experience as I do is to say it out loud - 
-"CODING TEST SUCKS" and bring this issue to your congress men/women as this practice is clearly age discrimination.
+"CODING TEST SUCKS" and bring this issue to your congress men/women as this practice is clearly age discrimination
+to say the least. Not to mention, there are sensitive people who are not comfotable to write code with others 
+watching over their shoulder or under pressure.
+
 People of my generation were not trained to do this stupid thing to others. We were trained not to memorize, but
-to be able to perform research and come up with innovative solutions.
+to be able to perform research and come up with innovative solutions. That's how we recruited people. I went through
+many startups of my own and in the process, hired hundreds of software engineers in my career. Among them, only one 
+candidate is required to do a take-home coding task to prove to me he can do the job before I hire him. This was
+because the job is important to the success of the whole project.
+
+More serious is that, nowadays, many companies in the industry are blindly copied and incorporated this whole stupid 
+coding challenge culture without thinking how it is going to effect some people's career and life. Apparently,
+they all hope the coding challenge will help them to pick out people with high IQ for being able to do it in a short time.
+I would say they are most likely gaining a whole bunch of bookworms and coding monkeys.
 
 Well, after this experience, I think I would better spend my time working on my projects instead of wasting my
-time going through this whole frustrated experience.  
-
-I am done with this stupid coding challenge. 
-There are so many other interesting things that I want to spend my productive time on.
+time going through this whole frustrated experience.  There are so many other interesting things that I want to 
+spend my productive time on.
 
 
 ------  About the coding tests you found on this repo ------------------------
