@@ -72,7 +72,8 @@ More serious is that, nowadays, many companies in the industry are blindly copie
 coding challenge culture without thinking how it is going to effect some people's career and life. Apparently,
 they all hope the coding challenge will help them to pick out people with high IQ. Yet, this culture will most likely 
 lead to the creation of coding monkeys rather than scientists. Dont agree with me? Google "coding challenge", you will 
-find tons of so-called algorithm experts trying to cashing in on people desparately needs a job to feed their family. 
+find tons of so-called algorithm experts trying to cashing in on people who are desparately need a job to feed their 
+family. 
 
 Well, after this experience, I think I would better spend my time working on my projects instead of wasting my
 time going through this whole coding "ritual" that someone wants me to go through as part of their recruitment process.  
