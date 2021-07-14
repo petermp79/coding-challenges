@@ -27,7 +27,7 @@ skills.
 
 Nevertheless, I did not pass the coding challenge at Facebook despite of 2-3 months self-training. My coding challenge 
 with Facebook was only partially successful. (They asked two coding problems in 40 min, I can do only one of them, 
-the other one I was able to figure out the solution, but not having enough time to finish it). To be fair, the recruiter  
+the other one I was able to figure out the solution, but not having enough time to finish it). To be fair, the recruiter
 gave me a second chance, but again, I can only manage the get it done partially, with brute force solution instead of 
 optimized one.
 
