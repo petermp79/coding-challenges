@@ -70,12 +70,13 @@ because the job is important to the success of the whole project.
 
 More serious is that, nowadays, many companies in the industry are blindly copied and incorporated this whole stupid 
 coding challenge culture without thinking how it is going to effect some people's career and life. Apparently,
-they all hope the coding challenge will help them to pick out people with high IQ for being able to do it in a short time.
-I would say they are most likely gaining a whole bunch of bookworms and coding monkeys.
+they all hope the coding challenge will help them to pick out people with high IQ. Yet, this culture will most likely 
+lead to the creation of coding monkeys rather than scientists. Dont agree with me? Google "coding challenge", you will 
+find tons of so-called algorithm experts trying to cashing in on people desparately needs a job to feed their family. 
 
 Well, after this experience, I think I would better spend my time working on my projects instead of wasting my
-time going through this whole frustrated experience.  There are so many other interesting things that I want to 
-spend my productive time on.
+time going through this whole coding "ritual" that someone wants me to go through as part of their recruitment process.  
+There are so many other interesting things that I want to spend my productive time on.
 
 
 ------  About the coding tests you found on this repo ------------------------
