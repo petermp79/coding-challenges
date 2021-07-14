@@ -10,7 +10,7 @@ measure of skills nowadays. Some even religiously believe coding test will help 
 People who were graduating from school prior to 2010, like I am, may find coding tests as their career killer, 
 as they were trained not to memorize, but to be able to perform research on demand and to innovate. 
 
-I think the coding challenge culture initially applied by big tech companies for recruiting students graduates 
+I think the coding challenge culture initially applied by big tech companies for recruiting graduates 
 from University, which I think makes complete sense as students spends day-in and day-out to do tests or practice 
 coding tests as part of their education. Also, they have no work experience for discussing in the interview.
 However, it does not make any senses to challenge people who has a long line of experience in the career to with
@@ -27,8 +27,8 @@ skills.
 
 Nevertheless, I did not pass the coding challenge at Facebook despite of 2-3 months self-training. My coding challenge 
 with Facebook was only partially successful. (They asked two coding problems in 40 min, I can do only one of them, 
-the other one I figure out the solution, but not having enough time to finish it). To be fair, the recruiter gave 
-me a second chance, but again, I can only manage the get it done partially, with brute force solution instead of 
+the other one I was able to figure out the solution, but not having enough time to finish it). To be fair, the recruiter  
+gave me a second chance, but again, I can only manage the get it done partially, with brute force solution instead of 
 optimized one.
 
 A short time later, I got contacted by a Google recruiter, but again, the recruiter cant help but forcing me to go 
@@ -37,11 +37,12 @@ challenge, and again, I can only complete the challenge partially.
 
 It is noted that they all expect candidates to perform the coding tests without a hiccup and with an optimized solution. 
 Even if you come up with a solution, but not the optimized one or struggling to finish it, you failed. To be able
-to come up with an optimized solution, you must be able to deeply understand the problem and figure out the trick 
-behind it. As a result, the only way you can come up with an optimized solution is to learn of the problem and solution
-before hand given the short amount of time you have in the interview. While brute force solution is often obvious,
-optimized solution often took me a day or two to figure out. And you are expected to figure out and code it in 
-15 minutes. So, unless you have done it before and remember it, you have no chance of passing the coding challenge. 
+to come up with an optimized solution, you must be able to deeply understand the problem to figure out how to solve 
+it the right way. As a result, the only way you can come up with an optimized solution, in my opinion, is to have advanced
+knowledge of the solution before hand given the short amount of time you have in the interview. While brute force solution 
+is often obvious, optimized solution for a problem that I haven't seen before took me a day or two to figure out...
+and you are expected to figure out and code it thoroughly in 20 minutes. So, unless you have done it before and remember 
+it, you have no chance of passing the coding challenge. 
 
 I have not done interviews for quite sometime and could not imagine how ridiculous the whole hiring process nowadays 
 has become. This requirement means you need to not only know how to work on a problem, but you must also memorize 
@@ -49,31 +50,31 @@ the optimized solution so you can do it without a hiccup.
 
 In an experience I had with Samsung, I passed one round of coding challenge, the next interviewer also challenges me
 on coding, in which I get it done right in 10 min. The interviewer complains my code is not clean and he suggested
-a solution that is cleaner. You know what? The guy spent the next 30 min to clean it up, as he did not remember well 
-how to code the solution in a cleaner fashion either. The end result is saving three lines of code, but apparently,
-he failed me anyway.  Can you imagine how STUPID and CRUEL this whole coding challenge culture has become???? 
-Why cant they simply asking questions on technical skills that they need for the job????
+a cleaner solution way of coding it. You know what? The guy spent the next 30 min to do it himself (he did not remember 
+well what he is asking me to do). The end result is saving three lines of code, but apparently, he failed me anyway.  
+Can you imagine how STUPID and CRUEL this whole coding challenge culture has become???? Why cant they simply asking 
+questions on the technical skills required for the job????
 
 This is why many people have quietly given up on their career or dare not switching job for a better position. 
 I know quite a few of them. What I suggest those who have similar experience as I do is to say it out loud - 
 "CODING TEST SUCKS" and bring this issue to your congress men/women as this practice is clearly age discrimination
-to say the least. Not to mention, there are sensitive people who are not comfotable to write code with others 
+to say the least. Not to mention, there are sensitive people who are not comfortable to write code with others 
 watching over their shoulder or under pressure.
 
-People of my generation were not trained to do this stupid thing to others. We were trained not to memorize, but
-to be able to perform research and come up with innovative solutions. That's how we recruited people. I went through
-many startups of my own and in the process, hired hundreds of software engineers in my career. Among them, only one 
-candidate is required to do a take-home coding task to prove to me he can do the job before I hire him. This was
-because the job is important to the success of the whole project.
+People of my generation were not trained to do this stupid thing to others. As mentioned earlier, we were trained not 
+to memorize, but to be able to perform research and come up with innovative solutions. That's how we recruited people. 
+I went through many startups of my own and worked for big companies and, in the process, hired hundreds of software 
+engineers in my career. Among them, only one candidate is required to do a take-home coding task to prove to me that 
+he can do the job before I hire him.
 
 More serious is that, nowadays, many companies in the industry are blindly copied and incorporated this whole stupid 
-coding challenge culture without thinking how it is going to effect some people's career and life. Apparently,
-they all hope the coding challenge will help them to pick out people with high IQ. Yet, this culture will most likely 
-lead to the creation of coding monkeys rather than scientists. Dont agree with me? Google "coding challenge", you will 
-find tons of so-called algorithm experts trying to cashing in on people who are desparately need a job to feed their 
-family. 
+coding challenge culture without thinking how it is going to effect someone else's career and life. Apparently,
+they all hope that the coding challenge will help them to pick out people with high IQ. Yet, this culture will most likely 
+lead to the creation of a pool of coding monkeys rather than scientists. Dont agree with me? Google "coding challenge", 
+you will find tons of so-called algorithm experts trying to cashing in on people who are desparately need a job to feed 
+their family. 
 
-Well, after this experience, I think I would better spend my time working on my projects instead of wasting my
+Well, after this experience, I think I would better spend my time working on my own projects instead of wasting my
 time going through this whole coding "ritual" that someone wants me to go through as part of their recruitment process.  
 There are so many other interesting things that I want to spend my productive time on.
 
