@@ -48,12 +48,11 @@ I have not done interviews for quite sometime and could not imagine how ridiculo
 has become. This requirement means you need to not only know how to work on a problem, but you must also memorize 
 the optimized solution so you can do it without a hiccup. 
 
-In an experience I had with Samsung, I passed one round of coding challenge, the next interviewer also challenges me
-on coding, in which I get it done right in 10 min. The interviewer complains my code is not clean and he suggested
+In an experience I had with Samsung, I passed one round of coding challenge, the next interviewer challenged me
+on coding as well. I get it done right in 10 min. Yey, The guy complains my code is not clean and he suggested
 a cleaner solution way of coding it. You know what? The guy spent the next 30 min to do it himself (he did not remember 
-well what he is asking me to do). The end result is saving three lines of code, but apparently, he failed me anyway. Can 
-you imagine how STUPID and CRUEL this whole coding challenge culture has become???? Why cant they simply asking 
-questions on the technical skills required for the job????
+well what he was asking me to do). In the end, he saved three lines of code, but he failed me anyway. Can 
+you imagine how STUPID and CRUEL this whole coding challenge culture has become????
 
 This is why many people have quietly given up on their career or dare not switching job for a better position. 
 I know quite a few of them. What I suggest those who have similar experience as I do is to say it out loud - 
@@ -61,22 +60,27 @@ I know quite a few of them. What I suggest those who have similar experience as 
 to say the least. Not to mention, there are sensitive people who are not comfortable to write code with others 
 watching over their shoulder or under pressure.
 
-People of my generation were not trained to do this stupid thing to others. As mentioned earlier, we were trained not 
-to memorize, but to be able to perform research and come up with innovative solutions. That's how we recruited people. 
-I went through many startups of my own and worked for big companies and, in the process, hired hundreds of software 
-engineers in my career. Among them, only one candidate is required to do a take-home coding task to prove to me that 
-he can do the job before I hire him.
+People of my generation were not trained to do this stupid thing to others. In the past, the purpose of an interview 
+is to make sure the candidates have proper training and experience to do the job.  That's how we recruited people. 
+I went through many startups of my own and others. I also worked for some big companies and, in the process, I hired 
+hundreds of software engineers in my career. Yet, there was only once occasion when I requested a candidate to do
+a take-home small project to make sure he has the right skills to do the job.
 
-More serious is that, nowadays, many companies in the industry are blindly copied and incorporated this whole stupid 
+Unfortunately, nowadays, many companies in the industry are blindly copied and incorporated this whole stupid 
 coding challenge culture without thinking how it is going to effect someone else's career and life. Apparently,
-they all hope that the coding challenge will help them to pick out people with high IQ. Yet, this culture will most likely 
-lead to the creation of a pool of coding monkeys rather than scientists. Dont agree with me? Google "coding challenge", 
-you will find tons of so-called algorithm experts trying to cashing in on people who are desparately need a job to feed 
-their family. 
+they all hope that the coding challenge will help them to pick out people with the highest IQ. Yet, in my opinion, 
+this culture will most likely lead to the creation of a pool of coding monkeys rather than scientists as everyone
+will have to go through coding challenge training in order to get a job. It also causes lost of income to the 
+candidates as it will take much more longer for them to get a job. 
+
+Dont agree with me? Google "coding challenge", you will find tons of so-called algorithm experts trying to cashing 
+in on people who are desparately need a job. 
 
 Well, after this experience, I think I would better spend my time working on my own projects instead of wasting my
 time going through this whole coding "ritual" that someone wants me to go through as part of their recruitment process.  
 There are so many other interesting things that I want to spend my productive time on.
+
+I am done with coding challenge.
 
 
 ------  About the coding tests you found on this repo ------------------------
@@ -111,14 +115,14 @@ at it.
     I had the subscription, but unable to access them afterward for adding to this repo after I 
     ended the subscription.
 
-- geekstogeeks.com - Another good coding test solution resource is this website. You can find 
+- geekstogeeks.com - A good coding test solution resource is this website. You can find 
     solutions to almost any coding test problems on this website. The site also offers plenty 
     of articles on programming subjects that could be helpful in refreshing your skillsets.
 
 - I found this course "50 popular coding interview problems" on udemy.com to be very helpful. 
   I got it for only $9.90 when it was on-sale. Maybe, you should get it for training. I dont
   think you need to spend more than that to feed the companies/people who are doing nothing
-  productive but trying to get rich on this stupid culture. 
+  productive but trying to get rich on this stupid coding challenge culture. 
   
 I hope the collection of coding tests and solutions in the repo will be helpful to you in your job 
 interviews.
