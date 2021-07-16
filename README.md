@@ -68,7 +68,7 @@ I went through many startups of my own and others. I also worked for some big co
 many software engineers in my career. Yet, there was only once occasion when I requested a candidate to do a small
 take-home project to make sure he has the right skills for the job.
 
-Unfortunately, nowadays, many companies in the industry are blindly copied and incorporated this whole stupid 
+Unfortunately, nowadays, many companies in the industry are blindly copying and incorporating this whole stupid 
 coding challenge culture without thinking how it is going to effect someone else's career and life. Apparently,
 they all hope that the coding challenge will help them to pick out people with the highest IQ. Yet, most likely, 
 it will favor those who are just grasduating from school or can afford to go through the coding challenge training 
