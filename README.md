@@ -21,9 +21,9 @@ go through this coding challenge "ritual"?
 
 Despite of my 2-month effort to practice all these tests on LEETCODE, etc. I only managed to remember a few of them. 
 I was just overwhelmed by the sheer number of coding challenges on LEETCODE. There are thousands of them in existence
-and counting. There are new inventions on coding challenge every day with new tricks to elude people of their 
-chance of employment. So, no matter how long you spend on training yourselves, it is only a matter of luck, not your
-skills. 
+and counting. They are all new to me. There are new inventions on coding challenge every day with new tricks to elude 
+people of their chance of employment. So, no matter how long you spend on training yourselves, it is only a matter 
+of luck, not your skills. 
 
 Nevertheless, I did not pass the coding challenge at Facebook despite of 2-3 months self-training. My coding challenge 
 with Facebook was only partially successful. (They asked two coding problems in 40 min, I can do only one of them, 
@@ -49,10 +49,11 @@ has become. This requirement means you need to not only know how to work on a pr
 the optimized solution so you can do it without a hiccup. 
 
 In an experience I had with Samsung, I passed one round of coding challenge, the next interviewer challenged me
-on coding as well. I get it done right in 10 min. Yey, The guy complains my code is not clean and he suggested
-a cleaner solution way of coding it. You know what? The guy spent the next 30 min to do it himself (he did not remember 
-well what he was asking me to do). In the end, he saved three lines of code, but he failed me anyway. Can 
-you imagine how STUPID and CRUEL this whole coding challenge culture has become????
+on coding as well. I get it done right in 10 min. Yet, The guy complaints my code is as clean as it could be and he 
+suggested a cleaner solution way of coding it. You know what? The guy spent the next 30 min to do it himself (he did 
+not remember well what he was asking me to do). In the end, he saved three lines of code, but he failed me anyway. 
+Can you imagine how STUPID and CRUEL this whole coding challenge culture has become? What about my professional
+experience that they were interested in the first place? Do they really care?
 
 This is why many people have quietly given up on their career or dare not switching job for a better position or work 
 environment.  I know quite a few of them personally. Thus, I suggest those who have similar experience as I do to 
