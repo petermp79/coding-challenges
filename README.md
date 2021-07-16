@@ -15,9 +15,9 @@ from University, which I think makes complete sense as students spends day-in an
 coding tests as part of their education. Also, they have no work experience for discussing in the interview.
 However, it does not make any senses to challenge people who has a long line of experience in the career to with
 school stuff. Tests are a distant memory for these people. It is apparent that the hiring manager or whoever
-must have interests a candidate's work experience in order to request a job interview. So, why not addressing 
-the candidate's work experience in the interview as ever done before? Why is it necessary to religiously force
-candidates to go through this coding challenge "ritual"?
+must have interests a candidate's work experience in order to schedule an interview. So, why not addressing 
+the candidate's work experience in the interview as normally done before? Why is it necessary to force candidates to 
+go through this coding challenge "ritual"?
 
 Despite of my 2-month effort to practice all these tests on LEETCODE, etc. I only managed to remember a few of them. 
 I was just overwhelmed by the sheer number of coding challenges on LEETCODE. There are thousands of them in existence
@@ -54,27 +54,26 @@ a cleaner solution way of coding it. You know what? The guy spent the next 30 mi
 well what he was asking me to do). In the end, he saved three lines of code, but he failed me anyway. Can 
 you imagine how STUPID and CRUEL this whole coding challenge culture has become????
 
-This is why many people have quietly given up on their career or dare not switching job for a better position. 
-I know quite a few of them. What I suggest those who have similar experience as I do is to say it out loud - 
-"CODING TEST SUCKS" and bring this issue to your congress men/women as this practice is clearly age discrimination
-to say the least. Not to mention, there are sensitive people who are not comfortable to write code with others 
-watching over their shoulder or under pressure.
+This is why many people have quietly given up on their career or dare not switching job for a better position or work 
+environment.  I know quite a few of them personally. Thus, I suggest those who have similar experience as I do is to 
+say it out loud "CODING TEST SUCKS" and bring this issue to your congress men/women as this practice could potentially 
+be used a tool for discrimination, e.g. age, gender, race, etc. Not to mention, it puts some people in disadvantages, 
+e.g. sensitive people who are not comfortable writing code with others over their shoulder or under pressure.
 
 People of my generation were not trained to do this stupid thing to others. In the past, the purpose of an interview 
 is to make sure the candidates have proper training and experience to do the job.  That's how we recruited people. 
 I went through many startups of my own and others. I also worked for some big companies and, in the process, I hired 
-hundreds of software engineers in my career. Yet, there was only once occasion when I requested a candidate to do
-a take-home small project to make sure he has the right skills to do the job.
+many software engineers in my career. Yet, there was only once occasion when I requested a candidate to do a take-home 
+small project to make sure he has the right skills for the job.
 
 Unfortunately, nowadays, many companies in the industry are blindly copied and incorporated this whole stupid 
 coding challenge culture without thinking how it is going to effect someone else's career and life. Apparently,
-they all hope that the coding challenge will help them to pick out people with the highest IQ. Yet, in my opinion, 
-this culture will most likely lead to the creation of a pool of coding monkeys rather than scientists as everyone
-will have to go through coding challenge training in order to get a job. It also causes lost of income to the 
-candidates as it will take much more longer for them to get a job. 
+they all hope that the coding challenge will help them to pick out people with the highest IQ. Yet, most likely, 
+it will favor those who are just grasduating from school or can afford to go through the coding challenge training long enough. 
+In the process, it also causes loss of income and hardship for those who desparately need a job. 
 
 Dont agree with me? Google "coding challenge", you will find tons of so-called algorithm experts trying to cashing 
-in on people who are desparately need a job. 
+in on people who are looking for a software engineer job. 
 
 Well, after this experience, I think I would better spend my time working on my own projects instead of wasting my
 time going through this whole coding "ritual" that someone wants me to go through as part of their recruitment process.  
