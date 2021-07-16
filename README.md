@@ -55,16 +55,17 @@ well what he was asking me to do). In the end, he saved three lines of code, but
 you imagine how STUPID and CRUEL this whole coding challenge culture has become????
 
 This is why many people have quietly given up on their career or dare not switching job for a better position or work 
-environment.  I know quite a few of them personally. Thus, I suggest those who have similar experience as I do is to 
+environment.  I know quite a few of them personally. Thus, I suggest those who have similar experience as I do to 
 say it out loud "CODING TEST SUCKS" and bring this issue to your congress men/women as this practice could potentially 
 be used as a tool for discrimination, e.g. age, gender, race, etc. Not to mention, it puts some people in disadvantages, 
-e.g. sensitive people who are not comfortable writing code with others over their shoulder or under pressure.
+e.g. sensitive people who are not comfortable writing code with others over their shoulder or under pressure, people
+who cant afford to devote lengthy training time due to family circumstance.
 
 People of my generation were not trained to do this stupid thing to others. In the past, the purpose of an interview 
 is to make sure the candidates have proper training and experience to do the job.  That's how we recruited people. 
 I went through many startups of my own and others. I also worked for some big companies and, in the process, I hired 
-many software engineers in my career. Yet, there was only once occasion when I requested a candidate to do a take-home 
-small project to make sure he has the right skills for the job.
+many software engineers in my career. Yet, there was only once occasion when I requested a candidate to do a small
+take-home project to make sure he has the right skills for the job.
 
 Unfortunately, nowadays, many companies in the industry are blindly copied and incorporated this whole stupid 
 coding challenge culture without thinking how it is going to effect someone else's career and life. Apparently,
@@ -77,10 +78,10 @@ Dont agree with me? Google "coding challenge", you will find tons of so-called a
 in on people who are looking for a software engineer job. 
 
 Well, after this experience, I think I would better spend my time working on my own projects instead of wasting my
-time going through this whole coding "ritual" that someone wants me to go through as part of their recruitment process.  
-There are so many other interesting things that I want to spend my productive time on.
+time going through this whole coding "ritual" process.  There are so many other interesting things that I want to 
+spend my productive time on.
 
-So, I am done with coding challenge.
+So, I am done with coding challenge. Period.
 
 
 ------  About the coding tests you found on this repo ------------------------
