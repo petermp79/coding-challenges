@@ -63,10 +63,12 @@ disadvantages, e.g. sensitive people who are not comfortable writing code with o
 pressure, people who cant afford to devote lengthy training time for some reasons.
 
 People of my generation were not trained to do this stupid and cruel thing to others. In the past, the purpose of an 
-interview is to make sure the candidates have proper training and experience to do the job.  That's how we recruited 
-people. I went through many startups of my own and others. I also worked for some big companies and, in the process, 
-I hired many software engineers in my career. Yet, there was only once occasion when I requested a candidate to do 
-a small take-home project to make sure he has the right skills for the job.
+interview is to make sure the candidates have proper training and experience to do the job.  During the interview,
+there are discussion of their training, experience and the project and candidate's view on the project. There may be a 
+coding challenge, but the purpose of the challenge is to make sure a candidate can code, not to solve a tricky problem.
+That's how we recruited people. I went through many startups of my own and others. I also worked for some big companies 
+and, in the process, I hired many software engineers in my career. Yet, there was only once occasion when I requested 
+a candidate to do a small take-home project to make sure he has the right skills for the job.
 
 Unfortunately, nowadays, many companies in the industry are blindly copying and incorporating this whole stupid 
 coding challenge culture without thinking how it is going to effect someone else's career and life. Apparently,
