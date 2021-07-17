@@ -58,9 +58,9 @@ experience that they were interested in the first place? Do they really care?
 This is why many people have quietly given up on their career or dare not switching job for a better position or work 
 environment.  I know quite a few of them personally. Thus, I suggest those who have similar experience as I do to 
 say it out loud "CODING TEST SUCKS" and bring this issue to your congress men/women as this practice could potentially 
-be used as a tool for discrimination, e.g. age, gender, race, etc. Not to mention, it puts some people in disadvantages, 
-e.g. sensitive people who are not comfortable writing code with others over their shoulder or under pressure, people
-who cant afford to devote lengthy training time for some reasons.
+be used as a hidden tool for discrimination, e.g. age, gender, race, etc. Not to mention, it puts some people in 
+disadvantages, e.g. sensitive people who are not comfortable writing code with others over their shoulder or under 
+pressure, people who cant afford to devote lengthy training time for some reasons.
 
 People of my generation were not trained to do this stupid and cruel thing to others. In the past, the purpose of an 
 interview is to make sure the candidates have proper training and experience to do the job.  That's how we recruited 
@@ -71,16 +71,15 @@ a small take-home project to make sure he has the right skills for the job.
 Unfortunately, nowadays, many companies in the industry are blindly copying and incorporating this whole stupid 
 coding challenge culture without thinking how it is going to effect someone else's career and life. Apparently,
 they all hope that the coding challenge will help them to pick out people with the highest IQ. Yet, most likely, 
-it will favor those who are just grasduating from school or can afford to go through the coding challenge training 
-long enough to memorize it all. In the process, it also causes loss of income and unnecessary hardship for those who 
-desparately need a job to feed their family. 
+what they got are those who are just graduating from school or can afford to go through the coding challenge 
+training long enough to memorize it all. In the process, it also causes loss of income and unnecessary hardship 
+for those who dont and desparately need a job to feed their family. 
 
 Dont agree with me? Google "coding challenge", you will find tons of so-called algorithm experts trying to cashing 
-in on people who are looking for a software engineer job. 
+in on people who are looking for a software engineer job with all sorts of bootcamps, training videos, etc.
 
 Well, after this experience, I think I would better spend my time working on my own projects instead of wasting my
-time going through this whole coding "ritual" process.  There are so many other interesting things that I want to 
-spend my productive time on.
+time going through this whole coding challenge "ritual".  
 
 So, I am done with coding challenge. Period.
 
@@ -102,24 +101,20 @@ at it.
     There is a video explaining how a problem is solved for every problem on their site.
     It is a good educational and training source. 
 
-    The cost is $135.00/year which is significantly cheaper than LEETCODE ($35.00/month).
+    The cost is $125.00/year which is significantly cheaper than LEETCODE ($35.00/month).
 
-- leetcode.com - One of the most popular sites on coding tests that recommended by all big
+- leetcode.com - One of the most popular sites on coding tests that recommended by most big
     tech companies, e.g. facebook, google, etc.  The site has tons of coding tests listed,
-    but it is mainly a site where people comes to hone their programming skillset and get
+    it is mainly a site where people comes to hone their programming skills or get
     familiar with coding tests.
 
     Most problems listed can be accessed with a free account. However, a paid account will
-    allow you gain access to problems often used by big tech companies in their interview.
-    The cost of a leetcode paid account is $35.00/mo. I recommend you to save your solutions some
-    places else before discontinuing your subscription service since you will not be able 
-    to access these problems after you end the subscription. I worked on many other problems when 
-    I had the subscription, but unable to access them afterward for adding to this repo after I 
-    ended the subscription.
+    allow you to gain access to problems often used by big tech companies in their interview.
+    The cost of a leetcode paid account is $35.00/mo. 
 
-- geekstogeeks.com - A good coding test solution resource is this website. You can find 
-    solutions to almost any coding test problems on this website. The site also offers plenty 
-    of articles on programming subjects that could be helpful in refreshing your skillsets.
+- geekstogeeks.com - A good coding test solution resource. You can find solutions to almost 
+    any coding test problems on this website. The site also offers plenty of articles on 
+    programming subjects that could be helpful in refreshing your skillsets.
 
 - I found this course "50 popular coding interview problems" on udemy.com to be very helpful. 
   I got it for only $9.90 when it was on-sale. Maybe, you should get it for training. I dont
