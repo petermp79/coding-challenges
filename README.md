@@ -11,7 +11,7 @@ in existence and counting. New inventions on coding challenge comes out every da
 of their chance of employment. So, no matter how long you spend on training yourselves, it is only a matter of luck, 
 not your skills.  Worse, most comapnies make it a pass or fail criteria.  If you dont make it through coding challenge 
 successfully, there is no need for them to discuss about your past experience and accomplishment, which interests them 
-in the first place (There are no such thing as "X years of experience in coding challenge" in my resume).  As such, 
+in the first place (I didn't state I have "X years of experience in coding challenge" in my resume).  As such, 
 people who were graduating from school prior to 2010, like I am, may find coding tests as their career killer, as they 
 were trained not to memorize, but to be able to perform research on demand and to innovate. 
 
@@ -27,8 +27,8 @@ a distant memory for most of them.
 
 Today, most companies are requiring it as a measure of skills. Some even religiously believe coding test will 
 help them sort out the best candidates, discounting all other qualities that make an engineer a good engineer such as 
-experience, innovation, visionary, etc. Trust me, there would be no Steve Jobs, Bill Gates, etc., if they were to face
-coding challenge for their job as of today requirement.
+experience, innovation, visionary, etc. Trust me, there would be no Steve Jobs, Bill Gates, Eric Smidth, etc., if they 
+were to face coding challenge for their job as of today requirement.
 
 This idea is superbly stupid ... and believe it or not, most companies in the industry blindly copying it and applying  
 as a key part of their recruiment policy. (Yeah, right, everyone in the industry does not want to fall behind Google, 
@@ -46,7 +46,7 @@ challenge, and again, I can only complete the challenge partially.
 
 It is noted that they all expect candidates to perform the coding tests without a hiccup and with an optimized solution. 
 Even if you come up with a solution, but not the optimized one or struggling to finish it, you failed. To be able
-to come up with an optimized solution, you must be able to deeply understand the problem to figure out how to solve 
+to come up with an optimized solution, you must be able to deeply understand the problem in order to figure out how to solve 
 it the right way. As a result, the only way you can come up with an optimized solution, in my opinion, is to have advanced
 knowledge of the solution before hand given the short amount of time you have in the interview. While brute force solution 
 is often obvious, optimized solution for a problem that I haven't seen before took me a day or two to figure out...
@@ -68,7 +68,7 @@ environment.  I know quite a few of them personally. Thus, I suggest those who h
 say it out loud "CODING TEST SUCKS" and bring this issue to your congress men/women as this practice could potentially 
 be used as a tool for discrimination, e.g. age, gender, race, etc. Not to mention, it puts some people in disadvantages, 
 e.g. sensitive people who are not comfortable writing code with others over their shoulder or under pressure, those
-who cant afford to go through coding challenge training for some reasons, etc.
+who cant afford to go through coding challenge training (many in this category), etc.
 
 People of my generation were not trained to do this stupid thing to others. In the past, the purpose of an interview 
 is to make sure the candidates have proper training and experience to do the job.  That's how we recruited people. 
