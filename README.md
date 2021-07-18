@@ -11,19 +11,16 @@ in existence and counting. New inventions on coding challenge comes out every da
 of their chance of employment. So, no matter how long you spend on training yourselves, it is only a matter of luck, 
 not your skills.  Worse, most comapnies make it a pass or fail criteria.  If you dont make it through coding challenge 
 successfully, there is no need for them to discuss about your past experience and accomplishment, which interests them 
-in the first place (I didn't state I have "X years of experience in coding challenge" in my resume).  As such, 
-people who were graduating from school prior to 2010, like I am, may find coding tests as their career killer, as they 
-were trained not to memorize, but to be able to perform research on demand and to innovate. 
+in the first place.  As such, people who were graduating from school prior to 2010, like I am, may find coding tests 
+as their career killer, as they were trained not to memorize, but to be able to perform research on demand and to innovate. 
 
 After going through this recuruitment process, all I can say is "CODING TEST SUCKS" as it clearly favors the younger
 people who just graduates from school.  I think the coding challenge culture originally developed and  applied by big 
 tech companies for recruiting graduates from University, which makes complete sense, as students spend day-in and 
 day-out to do tests or practice coding tests as part of their education. Also, they have no work experience for 
 discussion in the interview.  Somehow, this recruitment technique is applied across the board for all levels of software 
-engineers for whatever reasons.
-
-It does not make any senses to challenge people who has a long line of experience in ther career to with school stuff, 
-a distant memory for most of them. 
+engineers for whatever reasons.  It does not make any senses to challenge people who has a long line of experience in 
+ther career to with school stuff, a distant memory for most of them. 
 
 Today, most companies are requiring it as a measure of skills. Some even religiously believe coding test will 
 help them sort out the best candidates, discounting all other qualities that make an engineer a good engineer such as 
@@ -31,8 +28,8 @@ experience, innovation, visionary, etc. Trust me, there would be no Steve Jobs, 
 were to face coding challenge for their job as of today requirement.
 
 This idea is superbly stupid ... and believe it or not, most companies in the industry blindly copying it and applying  
-as a key part of their recruiment policy. (Yeah, right, everyone in the industry does not want to fall behind Google, 
-including stupidity.) 
+as a key part of their recruiment policy. (Yeah, right, everyone in the industry does not want to be any lesser than
+Google, including stupidity.) 
 
 Nevertheless, I did not pass the coding challenge at Facebook despite of 2-3 months self-training. My coding challenge 
 with Facebook was only partially successful. (They asked two coding problems in 40 min, I can do only one of them, 
@@ -58,8 +55,8 @@ has become. This requirement means you need to not only know how to work on a pr
 the optimized solution so you can do it without a hiccup. 
 
 In an experience I had with Samsung, I passed one round of coding challenge, the next interviewer challenged me
-on coding as well. I get it done right in 10 min. Yet, The guy complains my code is not clean and he suggested
-a cleaner way of coding it. You know what? The guy spent the next 30 min doing it himself (he did not remember 
+on coding as well. I get it done right in 10 min. Yet, The guy complained my code is not clean and he suggested
+a cleaner way of coding it. You know what? He spent the next 30 min doing it himself (he did not remember 
 well what he was asking me to do). In the end, he saved three lines of code, but he failed me anyway. Can 
 you imagine how STUPID and CRUEL this whole coding challenge culture has become????
 
@@ -73,8 +70,8 @@ who cant afford to go through coding challenge training (many in this category),
 People of my generation were not trained to do this stupid thing to others. In the past, the purpose of an interview 
 is to make sure the candidates have proper training and experience to do the job.  That's how we recruited people. 
 I went through many startups of my own and others. I also worked for some big companies and, in the process, I hired 
-many software engineers in my career. Yet, there was only once occasion when I requested a candidate to do a take-home 
-small project to make sure he has the right skills for the job.
+many software engineers in my career. Yet, there was only once occasion when I requested a candidate to do a small take-home 
+project to make sure he has the right skills for the job.
 
 Unfortunately, nowadays, many companies in the industry are blindly copyping and incorporating this whole stupid 
 coding challenge culture without thinking how it is going to effect someone else's career and life. Apparently,
