@@ -1,29 +1,38 @@
 # CODING TEST SUCKS!!!
 
 This repo keeps track of solutions to coding challenge problems that I worked on for practice for over 2 months.
-A Facebook recruiter talked me into this effort as he knew that people of my generation are not well-prepared for 
+A Facebook recruiter talked me into this effort as he knew that people in my generation are not well-prepared for 
 coding challenge despite of his hiring manager interests in my past professional experience. According to him, even 
-a director position at Facebook requires coding challenge as the first step.
+a director position at Facebook requires to pass the coding challenge as the first step.
 
-I know coding test sucks and favors people who just graduates from school, yet most companies are requiring it as a 
-measure of skills nowadays. Some even religiously believe coding test will help them recruit the best candidates. 
-People who were graduating from school prior to 2010, like I am, may find coding tests as their career killer, 
-as they were trained not to memorize, but to be able to perform research on demand and to innovate. 
+However, despite of my 2-month+ effort to practice all these tests on LEETCODE, etc. I only managed to remember a 
+few of them.  The sheer number of coding challenges on LEETCODE simply overwhelmed me. There are thousands of them 
+in existence and counting. New inventions on coding challenge comes out every day with new tricks to elude people 
+of their chance of employment. So, no matter how long you spend on training yourselves, it is only a matter of luck, 
+not your skills.  Worse, most comapnies make it a pass or fail criteria.  If you dont make it through coding challenge 
+successfully, there is no need for them to discuss about your past experience and accomplishment, which interests them 
+in the first place (There are no such thing as "X years of experience in coding challenge" in my resume).  As such, 
+people who were graduating from school prior to 2010, like I am, may find coding tests as their career killer, as they 
+were trained not to memorize, but to be able to perform research on demand and to innovate. 
 
-I think the coding challenge culture initially applied by big tech companies for recruiting graduates 
-from University, which I think makes complete sense as students spends day-in and day-out to do tests or practice 
-coding tests as part of their education. Also, they have no work experience for discussing in the interview.
-However, it does not make any senses to challenge people who has a long line of experience in the career with
-school stuff. Tests are a distant memory for these people. It is apparent that the hiring manager or whoever
-must have interests a candidate's work experience in order to schedule an interview. So, why not addressing 
-the candidate's work experience in the interview as normally done before? Why is it necessary to force candidates 
-to go through this coding challenge "ritual"?
+After going through this recuruitment process, all I can say is "CODING TEST SUCKS" as it clearly favors the younger
+people who just graduates from school.  I think the coding challenge culture originally developed and  applied by big 
+tech companies for recruiting graduates from University, which makes complete sense, as students spend day-in and 
+day-out to do tests or practice coding tests as part of their education. Also, they have no work experience for 
+discussion in the interview.  Somehow, this recruitment technique is applied across the board for all levels of software 
+engineers for whatever reasons.
 
-Despite of my 2-month effort to practice all these tests on LEETCODE, etc. I only managed to remember a few of them. 
-I was just overwhelmed by the sheer number of coding challenges on LEETCODE. There are thousands of them in existence
-and counting. They are all new to me. There are new inventions on coding challenge every day with new tricks to elude 
-people of their chance of employment. So, no matter how long you spend on training yourselves, it is only a matter 
-of luck, not your skills. 
+It does not make any senses to challenge people who has a long line of experience in ther career to with school stuff, 
+a distant memory for most of them. 
+
+Today, most companies are requiring it as a measure of skills. Some even religiously believe coding test will 
+help them sort out the best candidates, discounting all other qualities that make an engineer a good engineer such as 
+experience, innovation, visionary, etc. Trust me, there would be no Steve Jobs, Bill Gates, etc., if they were to face
+coding challenge for their job as of today requirement.
+
+This idea is superbly stupid ... and believe it or not, most companies in the industry blindly copying it and applying  
+as a key part of their recruiment policy. (Yeah, right, everyone in the industry does not want to fall behind Google, 
+including stupidity.) 
 
 Nevertheless, I did not pass the coding challenge at Facebook despite of 2-3 months self-training. My coding challenge 
 with Facebook was only partially successful. (They asked two coding problems in 40 min, I can do only one of them, 
@@ -49,41 +58,39 @@ has become. This requirement means you need to not only know how to work on a pr
 the optimized solution so you can do it without a hiccup. 
 
 In an experience I had with Samsung, I passed one round of coding challenge, the next interviewer challenged me
-on coding as well. I get it done right in 10 min. Yet, The guy complaints my code is as clean as it could be and he 
-suggested a cleaner solution way of coding it. You know what? The guy spent the next 30 min to do it himself (he did 
-not remember well what he was asking me to do). In the end, he saved three lines of code, but he failed me anyway. 
-Can you imagine how STUPID and CRUEL this whole coding challenge culture has become? What about my professional
-experience that they were interested in the first place? Do they really care?
+on coding as well. I get it done right in 10 min. Yet, The guy complains my code is not clean and he suggested
+a cleaner way of coding it. You know what? The guy spent the next 30 min doing it himself (he did not remember 
+well what he was asking me to do). In the end, he saved three lines of code, but he failed me anyway. Can 
+you imagine how STUPID and CRUEL this whole coding challenge culture has become????
 
 This is why many people have quietly given up on their career or dare not switching job for a better position or work 
-environment.  I know quite a few of them personally. Thus, I suggest those who have similar experience as I do to 
+environment.  I know quite a few of them personally. Thus, I suggest those who have similar experience as I do is to 
 say it out loud "CODING TEST SUCKS" and bring this issue to your congress men/women as this practice could potentially 
-be used as a hidden tool for discrimination, e.g. age, gender, race, etc. Not to mention, it puts some people in 
-disadvantages, e.g. sensitive people who are not comfortable writing code with others over their shoulder or under 
-pressure, people who cant afford to devote lengthy training time for some reasons.
+be used as a tool for discrimination, e.g. age, gender, race, etc. Not to mention, it puts some people in disadvantages, 
+e.g. sensitive people who are not comfortable writing code with others over their shoulder or under pressure, those
+who cant afford to go through coding challenge training for some reasons, etc.
 
-People of my generation were not trained to do this stupid and cruel thing to others. In the past, the purpose of an 
-interview is to make sure the candidates have proper training and experience to do the job.  During the interview,
-there are discussion of their training, experience and the project and candidate's view on the project. There may be a 
-coding challenge, but the purpose of the challenge is to make sure a candidate can code, not to solve a tricky problem.
-That's how we recruited people. I went through many startups of my own and others. I also worked for some big companies 
-and, in the process, I hired many software engineers in my career. Yet, there was only once occasion when I requested 
-a candidate to do a small take-home project to make sure he has the right skills for the job.
+People of my generation were not trained to do this stupid thing to others. In the past, the purpose of an interview 
+is to make sure the candidates have proper training and experience to do the job.  That's how we recruited people. 
+I went through many startups of my own and others. I also worked for some big companies and, in the process, I hired 
+many software engineers in my career. Yet, there was only once occasion when I requested a candidate to do a take-home 
+small project to make sure he has the right skills for the job.
 
-Unfortunately, nowadays, many companies in the industry are blindly copying and incorporating this whole stupid 
+Unfortunately, nowadays, many companies in the industry are blindly copyping and incorporating this whole stupid 
 coding challenge culture without thinking how it is going to effect someone else's career and life. Apparently,
 they all hope that the coding challenge will help them to pick out people with the highest IQ. Yet, most likely, 
-what they got are those who are just graduating from school or can afford to go through the coding challenge 
-training long enough to memorize it all. In the process, it also causes loss of income and unnecessary hardship 
-for those who dont and desparately need a job to feed their family. 
+it will favor those who are just graduating from school or can afford to go through the coding challenge training 
+long enough to memorize it all. In the process, it also causes loss of income and unnecessary hardship for those who 
+otherwise qualify for the job they are applying for.
 
 Dont agree with me? Google "coding challenge", you will find tons of so-called algorithm experts trying to cashing 
-in on people who are looking for a software engineer job with all sorts of bootcamps, training videos, etc.
+in on people who are looking for a software engineer job. 
 
 Well, after this experience, I think I would better spend my time working on my own projects instead of wasting my
-time going through this whole coding challenge "ritual".  
+time going through this whole coding "ritual" that someone wants me to go through as part of their recruitment process.  
+There are so many other interesting things that I want to spend my productive time on.
 
-So, I am done with coding challenge. Period.
+So, I am done with coding challenge.
 
 
 ------  About the coding tests you found on this repo ------------------------
@@ -103,20 +110,24 @@ at it.
     There is a video explaining how a problem is solved for every problem on their site.
     It is a good educational and training source. 
 
-    The cost is $125.00/year which is significantly cheaper than LEETCODE ($35.00/month).
+    The cost is $135.00/year which is significantly cheaper than LEETCODE ($35.00/month).
 
-- leetcode.com - One of the most popular sites on coding tests that recommended by most big
+- leetcode.com - One of the most popular sites on coding tests that recommended by all big
     tech companies, e.g. facebook, google, etc.  The site has tons of coding tests listed,
-    it is mainly a site where people comes to hone their programming skills or get
+    but it is mainly a site where people comes to hone their programming skillset and get
     familiar with coding tests.
 
     Most problems listed can be accessed with a free account. However, a paid account will
-    allow you to gain access to problems often used by big tech companies in their interview.
-    The cost of a leetcode paid account is $35.00/mo. 
+    allow you gain access to problems often used by big tech companies in their interview.
+    The cost of a leetcode paid account is $35.00/mo. I recommend you to save your solutions some
+    places else before discontinuing your subscription service since you will not be able 
+    to access these problems after you end the subscription. I worked on many other problems when 
+    I had the subscription, but unable to access them afterward for adding to this repo after I 
+    ended the subscription.
 
-- geekstogeeks.com - A good coding test solution resource. You can find solutions to almost 
-    any coding test problems on this website. The site also offers plenty of articles on 
-    programming subjects that could be helpful in refreshing your skillsets.
+- geekstogeeks.com - A good coding test solution resource is this website. You can find 
+    solutions to almost any coding test problems on this website. The site also offers plenty 
+    of articles on programming subjects that could be helpful in refreshing your skillsets.
 
 - I found this course "50 popular coding interview problems" on udemy.com to be very helpful. 
   I got it for only $9.90 when it was on-sale. Maybe, you should get it for training. I dont
