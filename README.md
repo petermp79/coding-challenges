@@ -27,7 +27,7 @@ help them sort out the best candidates, discounting all other qualities that mak
 experience, innovation, visionary, etc. Trust me, there would be no Steve Jobs, Bill Gates, Eric Smidth, etc., if they 
 were to face coding challenge for their job as of today requirement.
 
-This idea is superbly stupid ... and believe it or not, most companies in the industry blindly copying it and applying  
+This idea is super stupid ... and believe it or not, most companies in the industry blindly copying it and applying  
 as a key part of their recruiment policy. (Yeah, of course, no one in the industry wants to be any lesser than Google, 
 including stupidity.) 
 
