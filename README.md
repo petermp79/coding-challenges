@@ -28,8 +28,8 @@ experience, innovation, visionary, etc. Trust me, there would be no Steve Jobs, 
 were to face coding challenge for their job as of today requirement.
 
 This idea is superbly stupid ... and believe it or not, most companies in the industry blindly copying it and applying  
-as a key part of their recruiment policy. (Yeah, right, everyone in the industry does not want to be any lesser than
-Google, including stupidity.) 
+as a key part of their recruiment policy. (Yeah, of course, no one in the industry wants to be any lesser than Google, 
+including stupidity.) 
 
 Nevertheless, I did not pass the coding challenge at Facebook despite of 2-3 months self-training. My coding challenge 
 with Facebook was only partially successful. (They asked two coding problems in 40 min, I can do only one of them, 
