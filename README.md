@@ -30,7 +30,7 @@ Unfortunately, nowadays, many companies in the industry are blindly copying and 
 
 Don’t agree with me? Google "coding challenge", you will find tons of so-called algorithm experts and coding challenge sites trying to cash in on people who are struggling with this stupid coding challenge culture.
 
-Well, after this experience, I think I would better spend my time working on my own projects rather than wasting my time going through this whole aimless coding "ritual" called coding challenge.
+Well, after this experience, I think I would better spend my time working on my own projects rather than wasting my time going through this whole aimless coding "ritual" called "coding challenge". To conclude, I'd like to quote a comment on LinkedIn that I came across ... I dont recall exactly the quote but some thing like this ... "The whole process makes me feel like I am a coding monkey or at least they expect me to be that way."
 
 So, in short, I am done with coding challenge.
 
