@@ -24,8 +24,8 @@ The below are some resources I used for for coding test training and practice wh
 
     Most problems listed on this site can be accessed with a free account. However, a paid account 
     allows you to gain access to problems often used by big tech companies in their interview.
-    The cost of a leetcode paid account is $35.00/mo. I solved ~50 problems in this category when 
-    I have the subscription, but cant make a copy of them here after I unsubscribed.
+    The cost of a leetcode paid account is $35.00/mo. I have an additional ~50 problems in this category 
+    solved when I had the subscription, but cant make a copy of them here as they are not publicly shared.
 
 - geekstogeeks.com - A good coding test solution resource is this website. You can find 
     solutions to almost any coding test problems on this website. The site also offers plenty 
