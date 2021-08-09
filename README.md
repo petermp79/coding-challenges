@@ -1,6 +1,10 @@
-# CODING TEST SUCKS!!!
 
-This repo keeps track of solutions to coding challenge problems that I worked on for practice for over 2 months. A Facebook recruiter talked me into this effort as he knew that people of my generation were not trained for this coding challenge culture. According to him, even a director position at Facebook requires passing the coding challenge as the first step. These tests basically challenge a candidate on pattern recognition and algorithm. The hard part of a coding challenge is the pattern recognition part as it is not as obvious as algorithm and can wear many hats. That makes coding challenge tricky even to a professional engineer.
+This repo keeps track of solutions to coding challenge problems that I worked on for practice for over 2 months. A Facebook recruiter talked me into this effort as he knew that people of my generation were not trained for this coding challenge culture. These tests basically challenge a candidate on pattern recognition and algorithm. The hard part of a coding challenge is the pattern recognition part as it is not as obvious as algorithm and can wear many hats. That makes coding challenge tricky even to a professional engineer.
+
+To compile a specific challenge code on Ubuntu Linux:
+
+     g++ -std=c++11 filename.cpp -o filename
+
 
 ------  About the coding challenges you found on this repo ------------------------
 
@@ -32,8 +36,7 @@ The below are some resources I used for for coding test training and practice wh
     of articles on programming subjects that could be helpful in refreshing your memory.
 
 - I found this course "50 popular coding interview problems" on udemy.com to be very helpful. 
-  I got it for only $9.90 when it was on-sale. It is the best resource for training and learning in
-  my opinion.  
+  
   
 I hope the collection of coding tests and solutions in the repo and the information I provided above will be helpful to you in your job interviews.
 
