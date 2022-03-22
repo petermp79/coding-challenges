@@ -1,5 +1,7 @@
 
-This repo keeps track of solutions to coding challenge problems that I worked on for practice for over 2 months. A Facebook recruiter talked me into this effort as he knew that people of my generation were not trained for this coding challenge culture. These tests basically challenge a candidate on pattern recognition and algorithm. The hard part of a coding challenge is the pattern recognition part as it is not as obvious as algorithm and can wear many hats. That makes coding challenge tricky even to a professional engineer.
+This repo keeps track of solutions to coding challenge problems that I worked on for practice for over 2 months. A Facebook recruiter talked me into this effort as he knew that people of my generation were not trained for this coding challenge culture. These tests basically challenge a candidate on pattern recognition and algorithm. The hard part of a coding challenge is the pattern recognition part as it is not as obvious as algorithm and can wear many hats. Another tricky part of coding challenge is time limit. Most interview will about you 15-20 minutes to solve a problem. As such, you must be able to 'see' the solution in a very short time in order to have enough time to code it. That makes coding challenge tricky even to a professional engineer. My experience with coding challenge is, if you are new to it, you would have to trained yourself 3-6 months with coding challenges not only to get used to them but also to be fluent in algorithm enough to get them done on time during the interview. 
+
+In the interview I had with Facebook, I was asked to solve 2 problems in 30 minutes. I solved the first one perfectly on-time, but I failed on the second one, it took me a while to figure out the solution but I did not have enough time left to implement it. I had the same issue with an interview with Google a month later. Although, I trained myself on this subject as hard as I could for 2 months, I feel that to have a better chance, one should spend at least 3 months of continuous self-training in order to be effective in these coding challenge sessions. For me, I have enough of it. 
 
 To compile a specific challenge code on Ubuntu Linux:
 
@@ -38,7 +40,7 @@ The below are some resources I used for for coding test training and practice wh
 - I found this course "50 popular coding interview problems" on udemy.com to be very helpful. 
   
   
-I hope the collection of coding tests and solutions in the repo and the information I provided above will be helpful to you in your job interviews.
+I hope the collection of coding tests and solutions in the repo and the information I provided above will be helpful to you in your job interviews.  
 
 Happy coding and best of luck!!!
 
